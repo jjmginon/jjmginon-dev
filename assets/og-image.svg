@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0B0D"/>
+      <stop offset="100%" stop-color="#101216"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#FF7A45"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="80" y="180" width="64" height="4" rx="2" fill="url(#accent)"/>
+  <text x="80" y="290" font-family="'Space Grotesk', sans-serif" font-size="72" font-weight="700" fill="#EDEFF2">JJ Ginon</text>
+  <text x="80" y="350" font-family="'JetBrains Mono', monospace" font-size="28" fill="#6FE7DD">// Frontend Web Developer</text>
+  <text x="80" y="400" font-family="'Inter', sans-serif" font-size="22" fill="#9AA3AD">Fast, accessible web experiences with HTML, CSS &amp; JavaScript</text>
+</svg>
