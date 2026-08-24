@@ -1,5 +1,7 @@
 # JJ Ginon — Frontend Web Developer Portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93a6e5af-942e-4ca9-acf6-aff26f20e1f5/deploy-status)](https://app.netlify.com/projects/jjmginon-dev/deploys)
+
 A personal portfolio site built in 2026 with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools. It's a fully self-contained showcase of my projects, including **OptiPix**, **AtmoSeek**, and **NexuSearch**, wrapped in a dark developer-console visual identity with a cyan accent (and a complete light-mode alternative).
 
 **Live site:** [jjmginon-dev.netlify.app](https://jjmginon-dev.netlify.app)
