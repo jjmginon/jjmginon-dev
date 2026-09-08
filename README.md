@@ -31,15 +31,9 @@ jjmginon-dev/
 ├── js/
 │   └── script.js           # Theme, nav, scroll, filter, and typewriter logic
 ├── assets/
-│   ├── favicon.svg
+│   ├── favicon.svg         # Site favicon
 │   └── og-image.svg        # Open Graph / social preview image
-└── images/
-    ├── optipix-screenshot-1920x1080.webp
-    ├── atmoseek-screenshot-1920x1080.webp
-    ├── nexusearch-app-screenshot-1920x1080.webp
-    ├── watodo-app-screenshot-1920x1080.webp
-    ├── coffeescript-cafe-screenshot-1920x1080.webp
-    └── rps-pve-screenshot-1920x1080.webp
+└── images/                 # Project screenshots and portfolio visuals
 ```
 
 ---
